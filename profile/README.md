@@ -1,4 +1,3 @@
-![Banner](profile/banner.png)
+[![Banner](profile/banner.png)](https://leap.fish)
 
-
-<a target="_blank" href="https://leap.fish">leap.fish</a> -
+[leap.fish](https://leap.fish)
